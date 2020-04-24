@@ -1,0 +1,8 @@
+start
+sudo ./run.sh <ip> <row> <col>
+
+ex:
+./run.sh 192.168.1.1 2 2
+
+stop
+sudo killall python
